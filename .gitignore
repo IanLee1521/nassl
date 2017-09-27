@@ -8,6 +8,8 @@
 *.pyd
 *.egg-info
 lib/*
+.coverage
+.tox/
 
 # Shared objects (inc. Windows DLLs)
 *.dll
